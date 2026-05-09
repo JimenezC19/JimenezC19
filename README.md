@@ -1,6 +1,6 @@
 ## Diego Jiménez 📊🤖
 
-Analista de Datos especializado en Power BI, SQL, Python y Business Intelligence.
+Analista de Datos especializado en Power BI, SQL, Python, Supply Chain y Business Intelligence.
 
 ## Tecnologías
 - Power BI
