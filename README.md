@@ -24,3 +24,8 @@ Análisis de inventarios y KPIs logísticos.
 
 🔗 Ver proyecto:
 https://github.com/diegojimenez/inventory-dashboard
+
+
+## Contacto
+- ℹ️ Linkedin: www.linkedin.com/in/diegoj-bi-data
+- 📩 Correo: jimenezc.diegoj19@gmail.com
