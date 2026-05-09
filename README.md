@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**JimenezC19/JimenezC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineer and Data Analyst focused on:
+- Power BI
+- SQL
+- Python
+- Supply Chain Analytics
+- Business Intelligence
 
-Here are some ideas to get you started:
+## Featured Projects
+- Sales Dashboard
+- Inventory Optimization Dashboard
+- Supply Chain KPI Dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Power BI
+- SQL
+- Python
+- Excel
+- DAX
