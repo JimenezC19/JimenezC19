@@ -18,3 +18,30 @@ Industrial Engineer and Data Analyst focused on:
 - Python
 - Excel
 - DAX
+
+# Diego Jiménez
+
+Analista de Datos especializado en Power BI, SQL, Python y Business Intelligence.
+
+## Tecnologías
+- Power BI
+- SQL
+- Python
+- Google BigQuery
+- DAX
+
+## Proyectos Destacados
+
+### Dashboard de Seguimiento de Nuevos Distribuidores
+Dashboard para monitorear el onboarding y crecimiento de distribuidores.
+
+🔗 Ver proyecto:
+https://github.com/diegojimenez/new-distributor-dashboard
+
+---
+
+### Inventory Optimization Dashboard
+Análisis de inventarios y KPIs logísticos.
+
+🔗 Ver proyecto:
+https://github.com/diegojimenez/inventory-dashboard
