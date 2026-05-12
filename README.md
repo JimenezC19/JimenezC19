@@ -17,32 +17,26 @@ Ingeniero Industrial con formación como Analista de Datos especializado en Busi
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
+---
 
 # 📂 Proyectos Destacados
-<br>
+
 # 📈 Dashboard de Seguimiento de Nuevos Distribuidores
 
 Dashboard desarrollado en Power BI para monitorear el onboarding y crecimiento de distribuidores.
 
-<br>
-<br>
 ## 🔍 Vista previa
 
 <img width="532" height="733" alt="Dashboard Distribuidores" src="https://github.com/user-attachments/assets/a324783d-0612-437d-8572-a6728b05a0ef" />
 
 <br>
-<br>
 
 <img width="702" height="737" alt="Dashboard Distribuidores 2" src="https://github.com/user-attachments/assets/d691f382-293a-4454-bcce-1747cf8a4105" />
 
 <br>
-<br>
+
 🔗 **[Ver Proyecto](https://github.com/JimenezC19/ProyectoNuevosDistribuidores)**
 
-<br>
-<br>
-<br>
-<br>
 ---
 
 # 📊 Dashboard de KPIs Comerciales
@@ -62,16 +56,11 @@ Dashboard enfocado en análisis comercial, desempeño de clientes y monitoreo de
 🔗 **[Ver Proyecto](https://github.com/JimenezC19/ProyectoKPIs)**
 
 ---
-<br>
-<br>
-<br>
-<br>
+
 # 🌐 Dashboard de Desempeño de Ventas Online
 
 Dashboard desarrollado para monitorear el desempeño y crecimiento de ventas del canal online.
 
-<br>
-<br>
 ## 🔍 Vista previa
 
 <img width="890" height="798" alt="Ventas Online" src="https://github.com/user-attachments/assets/0953b620-90cc-4b26-926c-bb2ebf5b6278" />
