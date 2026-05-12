@@ -4,10 +4,12 @@ Analista de Datos especializado en Power BI, SQL, Python, Supply Chain y Busines
 
 ## Tecnologías
 - Power BI
+- DAX
 - SQL
 - Python
 - Google BigQuery
-- DAX
+- LookerStudio
+
 
 ## Proyectos Destacados
 
@@ -15,15 +17,23 @@ Analista de Datos especializado en Power BI, SQL, Python, Supply Chain y Busines
 Dashboard para monitorear el onboarding y crecimiento de distribuidores.
 
 🔗 Ver proyecto:
-https://github.com/diegojimenez/new-distributor-dashboard
+https://github.com/JimenezC19/ProyectoNuevosDistribuidores
 
 ---
 
-### Inventory Optimization Dashboard
-Análisis de inventarios y KPIs logísticos.
+### Dashboard de KPIs Área Comercial
+Análisis de clientes y KPIs comerciales.
 
 🔗 Ver proyecto:
-https://github.com/diegojimenez/inventory-dashboard
+https://github.com/JimenezC19/ProyectoKPIs
+
+---
+
+### Dashboard Ventas Canal Online
+Dashboard para monitorear el estatus y crecimiento de ventas del canal en línea.
+
+🔗 Ver proyecto:
+https://github.com/JimenezC19/ProyectoVentasOnline
 
 
 ## Contacto
