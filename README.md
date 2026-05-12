@@ -21,8 +21,6 @@ Ingeniero Industrial con formación como Analista de Datos especializado en Busi
 
 # 📂 Proyectos Destacados
 <br>
-
-
 # 📈 Dashboard de Seguimiento de Nuevos Distribuidores
 
 Dashboard desarrollado en Power BI para monitorear el onboarding y crecimiento de distribuidores.
