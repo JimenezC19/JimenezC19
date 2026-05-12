@@ -18,7 +18,6 @@ Ingeniero Industrial con formación como Analista de Datos especializado en Busi
 </p>
 
 ---
-<br>
 
 # 📂 Proyectos Destacados
 <br>
