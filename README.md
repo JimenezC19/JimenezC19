@@ -1,8 +1,8 @@
 ## Diego Jiménez 📊🤖
 
-Analista de Datos especializado en Power BI, SQL, Python, Supply Chain y Business Intelligence.
+Ingeniero Industrial con formación como Analista de Datos especializado en Power BI, SQL, Python, Supply Chain y Business Intelligence.
 
-## Tecnologías
+## Tecnologías 🖥️
 - Power BI
 - DAX
 - SQL
@@ -11,7 +11,7 @@ Analista de Datos especializado en Power BI, SQL, Python, Supply Chain y Busines
 - LookerStudio
 
 
-## Proyectos Destacados
+## Proyectos Destacados ⚙️💾
 
 ### Dashboard de Seguimiento de Nuevos Distribuidores
 Dashboard para monitorear el onboarding y crecimiento de distribuidores.
@@ -36,6 +36,6 @@ Dashboard para monitorear el estatus y crecimiento de ventas del canal en línea
 https://github.com/JimenezC19/ProyectoVentasOnline
 
 
-## Contacto
+## Contacto ☎️
 - ℹ️ Linkedin: www.linkedin.com/in/diegoj-bi-data
 - 📩 Correo: jimenezc.diegoj19@gmail.com
