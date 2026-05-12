@@ -16,7 +16,7 @@ Ingeniero Industrial con formación como Analista de Datos especializado en Busi
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
----
+
 
 # 📂 Proyectos Destacados
 <br>
