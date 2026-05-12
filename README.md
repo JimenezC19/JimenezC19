@@ -30,13 +30,16 @@ Dashboard desarrollado en Power BI para monitorear el onboarding y crecimiento d
 <img width="532" height="733" alt="Dashboard Distribuidores" src="https://github.com/user-attachments/assets/a324783d-0612-437d-8572-a6728b05a0ef" />
 
 <br>
+<br>
 
 <img width="702" height="737" alt="Dashboard Distribuidores 2" src="https://github.com/user-attachments/assets/d691f382-293a-4454-bcce-1747cf8a4105" />
 
 <br>
-
+<br>
 🔗 **[Ver Proyecto](https://github.com/JimenezC19/ProyectoNuevosDistribuidores)**
 
+<br>
+<br>
 ---
 
 # 📊 Dashboard de KPIs Comerciales
