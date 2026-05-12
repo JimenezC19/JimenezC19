@@ -1,4 +1,3 @@
-<img width="761" height="787" alt="Captura de pantalla 2026-05-11 133905" src="https://github.com/user-attachments/assets/0d038de8-6e88-46fc-91b5-aed1366f1e8a" />
 ## Diego Jiménez 📊🤖
 
 Ingeniero Industrial con formación como Analista de Datos especializado en Business Intelligence, SupplyChain, análisis comercial y visualización de datos mediante Power BI, SQL y Python.
